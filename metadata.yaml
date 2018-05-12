@@ -1,0 +1,27 @@
+_repo: The-Birth-of-Yugoslavia-Volume-2_24781
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baerlein, Henry
+    alias: Baerlein, Henry Philip Bernard
+    birthdate: 1875
+    deathdate: 1960
+    gutenberg_agent_id: '4824'
+    url: http://www.gutenberg.org/2009/agents/4824
+description: ''
+gutenberg_issued: '2008-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24781'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DR'
+- !lcsh 'Yugoslavia'
+title: The Birth of Yugoslavia, Volume 2
+url: http://www.gutenberg.org/ebooks/24781
