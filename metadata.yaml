@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4824'
     url: http://www.gutenberg.org/2009/agents/4824
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24781#The-Birth-of-Yugoslavia-Volume-2
 gutenberg_issued: '2008-03-08'
 gutenberg_type: Text
 identifiers:
